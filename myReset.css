@@ -134,3 +134,29 @@ display: none;
 [hidden] {
 display: none !important;
 }
+
+.d-flex {
+    display: flex;
+}
+
+.pos-rlt {
+    position: relative;
+}
+
+.a-itc {
+    align-items: center;
+}
+
+.j-cont {
+    justify-content: space-between;
+}
+
+.j-cont-c {
+    justify-content: center;
+}
+
+.d-flex-full {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
